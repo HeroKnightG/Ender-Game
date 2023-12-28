@@ -9,5 +9,5 @@ int main() {
     cin >> a ;
     int x = a * b ;
     cout << "Total : " << x ;
-    return 0 ;
+    return 0 ; 
 }
